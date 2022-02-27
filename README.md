@@ -12,3 +12,7 @@ hoặc
 ## 2. Hủy bỏ thay đổi trong file ( trước khi thực hiện 'git add .'):
 
 - git checkout -- <tên file>
+
+hoặc
+
+- git restore <tên file>
