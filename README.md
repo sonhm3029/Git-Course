@@ -9,6 +9,8 @@ Staging area| code sau khi được `git add`, sẵn sàng để `git commit`|![
 
 Sau khi git commit thì working tree sẽ trống, sẵn sàng để thực hiện push từ local lên repository.
 
+![ảnh](./3.png)
+
 ## 2. Bỏ thay đổi sau khi thực hiện 'git add .'
 
 - git restore --staged <tên file>
