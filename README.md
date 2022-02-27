@@ -5,7 +5,9 @@
 Tên TT | Mô tả | Ảnh
 -------|-------|----
 Unstaging Area/ working directory| code chưa được `git add`|![ảnh](./1.png)
-Staging area| code sau khi được `git add`, sẵn sàng để `git commit`|
+Staging area| code sau khi được `git add`, sẵn sàng để `git commit`|![ảnh](./2.png)
+
+Sau khi git commit thì working tree sẽ trống, sẵn sàng để thực hiện push từ local lên repository.
 
 ## 2. Bỏ thay đổi sau khi thực hiện 'git add .'
 
